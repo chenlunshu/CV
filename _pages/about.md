@@ -9,12 +9,7 @@ redirect_from:
 
 Lunshu CHEN is a PhD student candidate in the State Key Laboratory of Internet of Things for Smart City (IOTSC) and the Department of Electrical and Computer Engineering, University of Macau. He is also a joint PhD student at the University of Macau and the Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS). His research focuses on the control and hardware-in-the-loop technologies for dispatching air conditioner resources.
 
-## 🗣️ Research Talks
-
-* "A Lightweight End-Edge-Cloud AI Framework for Demand Response in Existing Buildings," *11th International Conference on Advanced Power System Automation and Protection (APAP 2025)*, Jeju, Korea, 2025.
-* "Hardware-in-the-loop and Field Demonstration Towards Voltage Regulation in Distribution System Considering Adjustable Inverter Air Conditioners," *IEEE 7th Conference on Energy Internet and Energy System Integration (EI2)*, Hangzhou, China, 2023.
-
-## 🏆 Honors and Awards
+## 🏆 Honors Awards
 
 * **Merit Prize Poster Award** for the 4th Macao International Conference on Smart City Technologies, Aug. 2024
 * **FST MSc Graduate Dean's Honors List : The Best of Department** of Electrical and Computer Engineering, May 2024
@@ -24,6 +19,11 @@ Lunshu CHEN is a PhD student candidate in the State Key Laboratory of Internet o
 * **[Team Leader] National First Prize**, Challenge Cup National College Students' Extracurricular Academic Science and Technology Contest, Nov. 2023
 * **[Team Leader] Second Prize in Guangdong-Hong Kong-Macao Bay Area**, "Winning in Guangzhou" and the Guangdong-Hong Kong-Macao Greater Bay Area Student Entrepreneurship Competition, Dec. 2023
 * **[Team Leader] Outstanding Award in Macau**, Bank of China Trophy One Million Dollar Macao Regional Entrepreneurship Competition, May 2023
+
+## 🗣️ Research Talks
+
+* "A Lightweight End-Edge-Cloud AI Framework for Demand Response in Existing Buildings," *11th International Conference on Advanced Power System Automation and Protection (APAP 2025)*, Jeju, Korea, 2025.
+* "Hardware-in-the-loop and Field Demonstration Towards Voltage Regulation in Distribution System Considering Adjustable Inverter Air Conditioners," *IEEE 7th Conference on Energy Internet and Energy System Integration (EI2)*, Hangzhou, China, 2023.
 
 ## 🤝 Other Scholarly Activities and Services
 
