@@ -11,14 +11,15 @@ Lunshu CHEN is a PhD student candidate in the State Key Laboratory of Internet o
 
 ## 🏆 Honors and Awards
 
-* **Merit Prize Poster Award** for the 4th Macao International Conference on Smart City Technologies, Aug. 2024
 * **FST MSc Graduate Dean's Honors List : The Best of Department** of Electrical and Computer Engineering, May 2024
+* **Merit Prize Poster Award** for the 4th Macao International Conference on Smart City Technologies, Aug. 2024
+
 
 ## 🚀 Competition Awards
 
 * **[Team Leader] National First Prize**, Challenge Cup National College Students' Extracurricular Academic Science and Technology Contest, Nov. 2023
-* **[Team Leader] Second Prize in Guangdong-Hong Kong-Macao Bay Area**, "Winning in Guangzhou" and the Guangdong-Hong Kong-Macao Greater Bay Area Student Entrepreneurship Competition, Dec. 2023
 * **[Team Leader] Outstanding Award in Macau**, Bank of China Trophy One Million Dollar Macao Regional Entrepreneurship Competition, May 2023
+* **[Team Leader] Second Prize in Guangdong-Hong Kong-Macao Bay Area**, "Winning in Guangzhou" and the Guangdong-Hong Kong-Macao Greater Bay Area Student Entrepreneurship Competition, Dec. 2023
 
 ## 🗣️ Research Talks
 
