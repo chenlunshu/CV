@@ -34,8 +34,6 @@ Lunshu CHEN is a PhD student candidate in the State Key Laboratory of Internet o
 
 * **[Team Leader] National First Prize**, Challenge Cup National College Students' Extracurricular Academic Science and Technology Contest, Nov. 2023
 * **[Team Leader] Second Prize in Guangdong-Hong Kong-Macao Bay Area**, "Winning in Guangzhou" and the Guangdong-Hong Kong-Macao Greater Bay Area Student Entrepreneurship Competition, Dec. 2023
-* **[Team Leader] Outstanding Award**, Guangdong "Zongchuang Cup" Entrepreneurship and Innovation Competition, Nov. 2023
-* **[Team Leader] Third Prize in Macau**, Suzhou (Changshu) National Innovation and Entrepreneurship Competition, Aug. 2023
 * **[Team Leader] Outstanding Award in Macau**, Bank of China Trophy One Million Dollar Macao Regional Entrepreneurship Competition, May 2023
 
 ## 🤝 Other Scholarly Activities and Services
@@ -44,6 +42,7 @@ Lunshu CHEN is a PhD student candidate in the State Key Laboratory of Internet o
 * **Organizing Chair**: 2024 IEEE 7th Student Conference on Electric Machines and Systems (IEEE SCEMS 2024), Nov. 2024
 
 **Conference Staff**
+* *2025 Global Artificial Intelligence Machines and Electronics Expo (AIE)*, 2025
 * *Shenzhen-Macao 2025 Symposium on Microgrids*, Nov. 2025
 * *The 17th US-China Green Energy Forum*, Nov. 2025
 * *The Fourth Macao Conference on Smart City Technologies*, Aug. 2024
