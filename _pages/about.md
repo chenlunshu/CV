@@ -9,17 +9,6 @@ redirect_from:
 
 Lunshu CHEN is a PhD student candidate in the State Key Laboratory of Internet of Things for Smart City and the Department of Electrical and Computer Engineering, University of Macau. He is also a joint PhD student at the University of Macau and the Chinese Academy of Sciences. His research focuses on the control and hardware-in-the-loop technologies for dispatching air conditioner resources.
 
----
-permalink: /
-title: "Biography"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
-Lunshu CHEN is a PhD student candidate in the State Key Laboratory of Internet of Things for Smart City and the Department of Electrical and Computer Engineering, University of Macau. He is also a joint PhD student at the University of Macau and the Chinese Academy of Sciences. His research focuses on the control and hardware-in-the-loop technologies for dispatching air conditioner resources.
-
 ## 🗣️ Research Talks
 
 * "A Lightweight End-Edge-Cloud AI Framework for Demand Response in Existing Buildings," *11th International Conference on Advanced Power System Automation and Protection (APAP 2025)*, Jeju, Korea, 2025.
