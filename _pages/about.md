@@ -9,7 +9,7 @@ redirect_from:
 
 Lunshu CHEN is a PhD student candidate in the State Key Laboratory of Internet of Things for Smart City (IOTSC) and the Department of Electrical and Computer Engineering, University of Macau. He is also a joint PhD student at the University of Macau and the Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS). His research focuses on the control and hardware-in-the-loop technologies for dispatching air conditioner resources.
 
-## 🏆 Honors Awards
+## 🏆 Honors and Awards
 
 * **Merit Prize Poster Award** for the 4th Macao International Conference on Smart City Technologies, Aug. 2024
 * **FST MSc Graduate Dean's Honors List : The Best of Department** of Electrical and Computer Engineering, May 2024
