@@ -11,7 +11,7 @@ Lunshu CHEN is a PhD student candidate in the State Key Laboratory of Internet o
 
 ## 🏆 Honors and Awards
 
-* **FST MSc Graduate Dean's Honors List : The Best of Department** of Electrical and Computer Engineering, May 2024
+* **FST MSc Graduate Dean's Honors List : The Best of Department** of Electrical and Computer Engineering, University of Macau, May 2024
 * **Merit Prize Poster Award** for the 4th Macao International Conference on Smart City Technologies, Aug. 2024
 
 
@@ -32,7 +32,7 @@ Lunshu CHEN is a PhD student candidate in the State Key Laboratory of Internet o
 * **Organizing Chair**: 2024 IEEE 7th Student Conference on Electric Machines and Systems (IEEE SCEMS 2024), Nov. 2024
 
 **Conference Staff**
-* *2025 Global Artificial Intelligence Machines and Electronics Expo (AIE)*, 2025
+* *2025 Global Artificial Intelligence Machines and Electronics Expo (AIE)*, Dec. 2025
 * *Shenzhen-Macao 2025 Symposium on Microgrids*, Nov. 2025
 * *The 17th US-China Green Energy Forum*, Nov. 2025
 * *The Fourth Macao Conference on Smart City Technologies*, Aug. 2024
