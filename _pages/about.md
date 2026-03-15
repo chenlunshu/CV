@@ -26,7 +26,7 @@ Lunshu CHEN is a PhD student candidate in the State Key Laboratory of Internet o
 * "A Lightweight End-Edge-Cloud AI Framework for Demand Response in Existing Buildings," *11th International Conference on Advanced Power System Automation and Protection (APAP 2025)*, Jeju, Korea, 2025.
 * "Hardware-in-the-loop and Field Demonstration Towards Voltage Regulation in Distribution System Considering Adjustable Inverter Air Conditioners," *IEEE 7th Conference on Energy Internet and Energy System Integration (EI2)*, Hangzhou, China, 2023.
 
-## 🤝 Other Scholarly Activities and Services
+## 🤝 Other Academic Activities and Services
 
 **Conference Committee**
 * **Organizing Chair**: 2024 IEEE 7th Student Conference on Electric Machines and Systems (IEEE SCEMS 2024), Nov. 2024
